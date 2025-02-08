@@ -23,6 +23,13 @@ Launch server via sail. Flag `-d` makes container not binded to your tty.
 ./vendor/bin/sail up -d
 ```
 
+## Launching npm client
+
+To render your frontend, you need to run npm client.
+```
+npm run dev
+```
+
 # Closing server
 
 To close your server use sail down command:
