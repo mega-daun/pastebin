@@ -1,6 +1,7 @@
 # Reqs
 
 - Php
+- Node js(v.10 or above)
 
 # Installing
 
