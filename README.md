@@ -11,6 +11,16 @@ Firstly, clone repository to your machine
 ```
 git clone https://github.com/mega-daun/pastebin
 ```
+
+
+# Launching server via Docker container
+
+Go to project directory
+
+```
+cd pastebin
+```
+
 Next, you need to install all project`s dependencies.
 ```
 composer install
@@ -26,14 +36,6 @@ Change variables(uncomment ones that are commented)
 - DB_DATABASE # your preferincies
 - DB_USERNAME # your preferincies
 - DB_PASSWORD # your preferincies
-
-# Launching server via Docker container
-
-Go to project directory
-
-```
-cd pastebin
-```
 
 Launch server via sail. Flag `-d` makes container not binded to your tty.
 ```
