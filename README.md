@@ -55,3 +55,5 @@ To close your server use sail down command:
 ```
 ./vendor/bin/sail down
 ```
+
+Dont forget to close your npm client.
