@@ -33,9 +33,9 @@ Change variables(uncomment ones that are commented)
 - DB_CONNECTION=mysql
 - DB_HOST=`name-of-project's root directory`-mysql-1
 - DB_PORT=3306
-- DB_DATABASE # your preferincies
-- DB_USERNAME # your preferincies
-- DB_PASSWORD # your preferincies
+- DB_DATABASE # your preferences
+- DB_USERNAME # your preferences
+- DB_PASSWORD # your preferences
 
 Launch server via sail. Flag `-d` makes container not binded to your tty.
 ```
