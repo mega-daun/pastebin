@@ -31,7 +31,7 @@ composer install
 Create `.env` file and paste to it contents of `.env.example`.
 Change variables(uncomment ones that are commented)
 - DB_CONNECTION=mysql
-- DB_HOST=`name-of-project`s root directory`-mysql-1
+- DB_HOST=`name-of-project's root directory`-mysql-1
 - DB_PORT=3306
 - DB_DATABASE # your preferincies
 - DB_USERNAME # your preferincies
